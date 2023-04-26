@@ -1,2 +1,3 @@
 This is the second file that will be tracked by Git.
 This file will be added to Stagging area.
+This file is in Stagging Area now and I am modifying it over there.
